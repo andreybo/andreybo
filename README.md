@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skills in graphic design, motion design, 3d modeling and visualization, ui/ux, video-production, advertising, vfx; Excellent understanding of user experience design for mobile and the web, technology trends, demonstrable design skills, and ability to show relevant work; E-Commerce experience; Solid grasp of web design principles and a good understanding of front-end web technologies; A team player who can easily adapt in a rapidly changing environment.
+Skills in frontend, graphic design, motion design, 3d modeling and visualization, ui/ux, video-production, advertising, vfx; Excellent understanding of user experience design for mobile and the web, technology trends, demonstrable design skills, and ability to show relevant work; E-Commerce experience; Solid grasp of web design principles and a good understanding of front-end web technologies; A team player who can easily adapt in a rapidly changing environment.
 
 
 ## 🌐 Socials:
